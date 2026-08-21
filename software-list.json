@@ -1,6 +1,6 @@
 {
   "categories": [
-    { "id": "browser",    "name": "浏览器" },
+    { "id": "browser",    "name": "浏览器玩" },
     { "id": "dev",        "name": "游戏必下" },
     { "id": "media",      "name": "影音播放" },
     { "id": "util",       "name": "系统工具" }
@@ -9,13 +9,13 @@
     {
       "id": "sample_app",
       "category": "util",
-      "name": "示例工具",
+      "name": "edge浏览器",
       "version": "1.0",
-      "size": "60 KB",
+      "size": "1.7 m",
       "author": "SoftwareStore",
       "desc": "用于本地联调的测试样本程序(实为 where.exe)",
-      "icon": "",
-      "url": "http://localhost:8000/cloud/downloads/sample_app_v1.exe",
+      "icon": "https://pc3.gtimg.com/softmgr/logo/48/26341_48_1586405072.png",
+      "url": "https://c2rsetup.officeapps.live.com/c2r/downloadEdge.aspx?platform=Default&source=EdgeStablePage&Channel=Stable&language=en-us&Consent=1&brand=M100",
       "type": "exe"
     },
     {
