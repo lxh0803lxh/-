@@ -62,7 +62,7 @@
       "size": "42 MB",
       "author": "VideoLAN",
       "desc": "开源跨平台多媒体播放器",
-      "icon": "",
+      "icon": "https://pc3.gtimg.com/softmgr/logo/48/26341_48_1586405072.png",
       "url": "https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe",
       "type": "exe"
     }
