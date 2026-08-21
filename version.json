@@ -1,0 +1,7 @@
+{
+  "versionCode": 10000,
+  "version": "1.0.0",
+  "releaseNotes": "初始版本",
+  "downloadUrl": "http://localhost:8000/cloud/downloads/sample_app_v1.exe",
+  "forceUpdate": "false"
+}

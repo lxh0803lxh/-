@@ -1,0 +1,70 @@
+{
+  "categories": [
+    { "id": "browser",    "name": "浏览器" },
+    { "id": "dev",        "name": "游戏必下" },
+    { "id": "media",      "name": "影音播放" },
+    { "id": "util",       "name": "系统工具" }
+  ],
+  "software": [
+    {
+      "id": "sample_app",
+      "category": "util",
+      "name": "示例工具",
+      "version": "1.0",
+      "size": "60 KB",
+      "author": "SoftwareStore",
+      "desc": "用于本地联调的测试样本程序(实为 where.exe)",
+      "icon": "",
+      "url": "http://localhost:8000/cloud/downloads/sample_app_v1.exe",
+      "type": "exe"
+    },
+    {
+      "id": "notepad_pp",
+      "category": "dev",
+      "name": "Notepad++",
+      "version": "8.6.9",
+      "size": "4.5 MB",
+      "author": "Don Ho",
+      "desc": "功能强大的免费文本编辑器,支持语法高亮",
+      "icon": "",
+      "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.9/npp.8.6.9.Installer.x64.exe",
+      "type": "exe"
+    },
+    {
+      "id": "seven_zip",
+      "category": "util",
+      "name": "7-Zip",
+      "version": "24.08",
+      "size": "1.5 MB",
+      "author": "Igor Pavlov",
+      "desc": "高压缩比开源压缩软件",
+      "icon": "",
+      "url": "https://www.7-zip.org/a/7z2408-x64.exe",
+      "type": "exe"
+    },
+    {
+      "id": "everything",
+      "category": "util",
+      "name": "Everything",
+      "version": "1.4.1",
+      "size": "2.0 MB",
+      "author": "voidtools",
+      "desc": "极快的文件名搜索工具",
+      "icon": "",
+      "url": "https://www.voidtools.com/Everything-1.4.1.1024.x86-Setup.exe",
+      "type": "exe"
+    },
+    {
+      "id": "vlc",
+      "category": "media",
+      "name": "VLC media player",
+      "version": "3.0.21",
+      "size": "42 MB",
+      "author": "VideoLAN",
+      "desc": "开源跨平台多媒体播放器",
+      "icon": "",
+      "url": "https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe",
+      "type": "exe"
+    }
+  ]
+}
