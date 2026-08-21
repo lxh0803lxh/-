@@ -26,7 +26,7 @@
       "size": "4.5 MB",
       "author": "Don Ho",
       "desc": "功能强大的免费文本编辑器,支持语法高亮",
-      "icon": "//img.jbzj.com/do/uploads/litimg/241031/_150220138.png",
+      "icon": "https://img.jbzj.com/do/uploads/litimg/241031/_150220138.png",
       "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.9/npp.8.6.9.Installer.x64.exe",
       "type": "exe"
     },
@@ -38,7 +38,7 @@
       "size": "1.5 MB",
       "author": "Igor Pavlov",
       "desc": "高压缩比开源压缩软件",
-      "icon": "",
+      "icon": "https://7-zip.org/7ziplogo.png",
       "url": "https://www.7-zip.org/a/7z2408-x64.exe",
       "type": "exe"
     },
@@ -50,7 +50,7 @@
       "size": "2.0 MB",
       "author": "voidtools",
       "desc": "极快的文件名搜索工具",
-      "icon": "",
+      "icon": "https://ts2.tc.mm.bing.net/th/id/OSAAS.0539AD84C0B44F0C5B703F9BA0D57816?w=42&h=42&c=17&rs=1&o=6&oif=webp&pid=TechQna",
       "url": "https://www.voidtools.com/Everything-1.4.1.1024.x86-Setup.exe",
       "type": "exe"
     },
