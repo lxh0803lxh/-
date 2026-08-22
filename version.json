@@ -1,7 +1,7 @@
 {
   "versionCode": 10000,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "releaseNotes": "初始版本",
-  "downloadUrl": "http://localhost:8000/cloud/downloads/sample_app_v1.exe",
+  "downloadUrl": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEZn-VqiRchGV80qeiMCxGpDo0cr8GY_AACGCMAAgK8SFQnuii12i-XCj0E.png",
   "forceUpdate": "false"
 }
